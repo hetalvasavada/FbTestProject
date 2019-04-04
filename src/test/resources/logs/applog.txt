@@ -1,0 +1,618 @@
+INFO    2019-04-03 11:20:15,634 [main] FbSignUp.FacebookSignUpTestcase  - Signup property file loaded!
+INFO    2019-04-03 11:20:15,636 [main] FbSignUp.FacebookSignUpTestcase  - Config file loaded!
+INFO    2019-04-03 11:20:23,269 [main] FbSignUp.FacebookSignUpTestcase  - firefox Browser Launched!
+INFO    2019-04-03 11:20:42,944 [main] FbSignUp.FacebookSignUpTestcase  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 11:20:43,122 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-03 11:20:43,266 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-03 11:20:43,432 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: email_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 11:20:43,619 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: reemail_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 11:20:43,737 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-03 11:20:44,094 [main] FbSignUp.FacebookSignUpTestcase  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-03 11:20:44,156 [main] FbSignUp.FacebookSignUpTestcase  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-03 11:20:44,441 [main] FbSignUp.FacebookSignUpTestcase  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-03 11:20:44,699 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:femail_XPATH
+INFO    2019-04-03 11:20:45,022 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:signupbtn_XPATH
+ERROR   2019-04-03 11:20:55,052 [main] FbSignUp.FacebookSignUpTestcase  - Element updatecontactinfo_XPATH not present on the page!
+INFO    2019-04-03 11:24:38,614 [main] FbSignUp.FacebookSignUpTestcase  - Signup property file loaded!
+INFO    2019-04-03 11:24:38,616 [main] FbSignUp.FacebookSignUpTestcase  - Config file loaded!
+INFO    2019-04-03 11:24:45,623 [main] FbSignUp.FacebookSignUpTestcase  - firefox Browser Launched!
+INFO    2019-04-03 11:24:50,433 [main] FbSignUp.FacebookSignUpTestcase  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 11:25:16,169 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-03 11:25:17,247 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-03 11:25:18,314 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: email_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 11:25:19,247 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: reemail_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 11:25:20,127 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-03 11:25:23,063 [main] FbSignUp.FacebookSignUpTestcase  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-03 11:25:25,745 [main] FbSignUp.FacebookSignUpTestcase  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-03 11:25:28,520 [main] FbSignUp.FacebookSignUpTestcase  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-03 11:25:29,591 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:femail_XPATH
+INFO    2019-04-03 11:25:31,043 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:signupbtn_XPATH
+ERROR   2019-04-03 11:25:57,008 [main] FbSignUp.FacebookSignUpTestcase  - Element updatecontactinfo_XPATH not present on the page!
+INFO    2019-04-03 11:34:12,161 [main] FbSignUp.FacebookSignUpTestcase  - Signup property file loaded!
+INFO    2019-04-03 11:34:12,164 [main] FbSignUp.FacebookSignUpTestcase  - Config file loaded!
+INFO    2019-04-03 11:34:18,780 [main] FbSignUp.FacebookSignUpTestcase  - firefox Browser Launched!
+INFO    2019-04-03 11:34:33,084 [main] FbSignUp.FacebookSignUpTestcase  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 11:34:33,219 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-03 11:34:33,317 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-03 11:34:33,473 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: email_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 11:34:33,599 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: reemail_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 11:34:33,704 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-03 11:34:34,038 [main] FbSignUp.FacebookSignUpTestcase  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-03 11:34:34,106 [main] FbSignUp.FacebookSignUpTestcase  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-03 11:34:34,370 [main] FbSignUp.FacebookSignUpTestcase  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-03 11:34:34,643 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:femail_XPATH
+INFO    2019-04-03 11:34:34,960 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:signupbtn_XPATH
+ERROR   2019-04-03 11:34:45,025 [main] FbSignUp.FacebookSignUpTestcase  - Element updatecontactinfo_XPATH not present on the page!
+INFO    2019-04-03 11:38:09,253 [main] FbSignUp.FacebookSignUpTestcase  - Signup property file loaded!
+INFO    2019-04-03 11:38:09,255 [main] FbSignUp.FacebookSignUpTestcase  - Config file loaded!
+INFO    2019-04-03 11:38:17,195 [main] FbSignUp.FacebookSignUpTestcase  - firefox Browser Launched!
+INFO    2019-04-03 11:38:37,101 [main] FbSignUp.FacebookSignUpTestcase  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 11:38:37,272 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-03 11:38:37,361 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-03 11:38:37,495 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: email_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 11:38:37,671 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: reemail_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 11:38:37,775 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-03 11:38:38,130 [main] FbSignUp.FacebookSignUpTestcase  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-03 11:38:38,175 [main] FbSignUp.FacebookSignUpTestcase  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-03 11:38:38,446 [main] FbSignUp.FacebookSignUpTestcase  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-03 11:38:38,704 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:femail_XPATH
+INFO    2019-04-03 11:38:39,001 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:signupbtn_XPATH
+ERROR   2019-04-03 11:38:49,058 [main] FbSignUp.FacebookSignUpTestcase  - Element updatecontactinfo_XPATH not present on the page!
+INFO    2019-04-03 11:46:14,161 [main] FbSignUp.FacebookSignUpTestcase  - Signup property file loaded!
+INFO    2019-04-03 11:46:14,161 [main] FbSignUp.FacebookSignUpTestcase  - Config file loaded!
+INFO    2019-04-03 11:46:21,543 [main] FbSignUp.FacebookSignUpTestcase  - firefox Browser Launched!
+INFO    2019-04-03 11:46:39,693 [main] FbSignUp.FacebookSignUpTestcase  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 11:46:39,886 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-03 11:46:40,009 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-03 11:46:40,172 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: email_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 11:46:40,324 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: reemail_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 11:46:40,418 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-03 11:46:40,788 [main] FbSignUp.FacebookSignUpTestcase  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-03 11:46:40,848 [main] FbSignUp.FacebookSignUpTestcase  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-03 11:46:41,142 [main] FbSignUp.FacebookSignUpTestcase  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-03 11:46:41,403 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:femail_XPATH
+INFO    2019-04-03 11:46:41,693 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:signupbtn_XPATH
+ERROR   2019-04-03 11:46:51,741 [main] FbSignUp.FacebookSignUpTestcase  - Element updatecontactinfo_XPATH not present on the page!
+ERROR   2019-04-03 11:46:51,905 [main] FbSignUp.FacebookSignUpTestcase  - Screenshot capture failed! 
+ERROR   2019-04-03 11:46:52,040 [main] FbSignUp.FacebookSignUpTestcase  - Screenshot capture failed! 
+INFO    2019-04-03 11:50:00,630 [main] FbSignUp.FacebookSignUpTestcase  - Signup property file loaded!
+INFO    2019-04-03 11:50:00,633 [main] FbSignUp.FacebookSignUpTestcase  - Config file loaded!
+INFO    2019-04-03 11:50:08,157 [main] FbSignUp.FacebookSignUpTestcase  - firefox Browser Launched!
+INFO    2019-04-03 11:50:27,234 [main] FbSignUp.FacebookSignUpTestcase  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 11:50:27,371 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-03 11:50:27,500 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-03 11:50:27,662 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: email_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 11:50:27,777 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: reemail_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 11:50:27,890 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-03 11:50:28,262 [main] FbSignUp.FacebookSignUpTestcase  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-03 11:50:28,356 [main] FbSignUp.FacebookSignUpTestcase  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-03 11:50:28,649 [main] FbSignUp.FacebookSignUpTestcase  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+ERROR   2019-04-03 11:50:28,696 [main] FbSignUp.FacebookSignUpTestcase  - Error while clicking an element femail_XPATH
+ERROR   2019-04-03 11:53:52,033 [main] FbSignUp.FacebookSignUpTestcase  - Screenshot capture failed! 
+ERROR   2019-04-03 11:55:55,709 [main] FbSignUp.FacebookSignUpTestcase  - Screenshot capture failed! 
+INFO    2019-04-03 11:56:43,155 [main] FbSignUp.FacebookSignUpTestcase  - Signup property file loaded!
+INFO    2019-04-03 11:56:43,155 [main] FbSignUp.FacebookSignUpTestcase  - Config file loaded!
+INFO    2019-04-03 11:56:53,086 [main] FbSignUp.FacebookSignUpTestcase  - firefox Browser Launched!
+INFO    2019-04-03 11:56:56,822 [main] FbSignUp.FacebookSignUpTestcase  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 11:56:57,010 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-03 11:56:57,119 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-03 11:56:57,260 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: email_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 11:56:57,432 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: reemail_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 11:56:57,541 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-03 11:56:57,937 [main] FbSignUp.FacebookSignUpTestcase  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-03 11:56:58,015 [main] FbSignUp.FacebookSignUpTestcase  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-03 11:56:58,327 [main] FbSignUp.FacebookSignUpTestcase  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-03 11:56:58,733 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:femail_XPATH
+INFO    2019-04-03 11:56:59,059 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:signupbtn_XPATH
+ERROR   2019-04-03 11:57:09,080 [main] FbSignUp.FacebookSignUpTestcase  - Element updatecontactinfo_XPATH not present on the page!
+ERROR   2019-04-03 11:57:09,233 [main] FbSignUp.FacebookSignUpTestcase  - Screenshot capture failed! 
+ERROR   2019-04-03 11:57:09,326 [main] FbSignUp.FacebookSignUpTestcase  - Screenshot capture failed! 
+INFO    2019-04-03 12:01:25,870 [main] FbSignUp.FacebookSignUpTestcase  - Signup property file loaded!
+INFO    2019-04-03 12:01:25,870 [main] FbSignUp.FacebookSignUpTestcase  - Config file loaded!
+INFO    2019-04-03 12:01:34,020 [main] FbSignUp.FacebookSignUpTestcase  - firefox Browser Launched!
+INFO    2019-04-03 12:01:47,343 [main] FbSignUp.FacebookSignUpTestcase  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 12:01:47,543 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-03 12:01:47,753 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-03 12:01:47,931 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: email_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 12:01:48,114 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: reemail_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 12:01:48,228 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-03 12:01:48,616 [main] FbSignUp.FacebookSignUpTestcase  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-03 12:01:48,679 [main] FbSignUp.FacebookSignUpTestcase  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-03 12:01:48,972 [main] FbSignUp.FacebookSignUpTestcase  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-03 12:01:49,216 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:femail_XPATH
+INFO    2019-04-03 12:01:49,504 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:signupbtn_XPATH
+ERROR   2019-04-03 12:01:59,537 [main] FbSignUp.FacebookSignUpTestcase  - Element updatecontactinfo_XPATH not present on the page!
+ERROR   2019-04-03 12:01:59,684 [main] FbSignUp.FacebookSignUpTestcase  - Screenshot capture failed! 
+ERROR   2019-04-03 12:01:59,795 [main] FbSignUp.FacebookSignUpTestcase  - Screenshot capture failed! 
+INFO    2019-04-03 12:03:38,854 [main] FbSignUp.FacebookSignUpTestcase  - Signup property file loaded!
+INFO    2019-04-03 12:03:38,854 [main] FbSignUp.FacebookSignUpTestcase  - Config file loaded!
+INFO    2019-04-03 12:03:45,768 [main] FbSignUp.FacebookSignUpTestcase  - firefox Browser Launched!
+INFO    2019-04-03 12:03:51,489 [main] FbSignUp.FacebookSignUpTestcase  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 12:03:51,748 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-03 12:03:51,887 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-03 12:03:52,083 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: email_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 12:03:52,254 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: reemail_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 12:03:52,395 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-03 12:03:52,796 [main] FbSignUp.FacebookSignUpTestcase  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-03 12:03:52,874 [main] FbSignUp.FacebookSignUpTestcase  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-03 12:03:53,259 [main] FbSignUp.FacebookSignUpTestcase  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-03 12:03:53,520 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:femail_XPATH
+INFO    2019-04-03 12:03:53,813 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:signupbtn_XPATH
+ERROR   2019-04-03 12:04:03,836 [main] FbSignUp.FacebookSignUpTestcase  - Element updatecontactinfo_XPATH not present on the page!
+INFO    2019-04-03 12:06:49,903 [main] FbSignUp.FacebookSignUpTestcase  - Signup property file loaded!
+INFO    2019-04-03 12:06:49,903 [main] FbSignUp.FacebookSignUpTestcase  - Config file loaded!
+INFO    2019-04-03 12:06:56,505 [main] FbSignUp.FacebookSignUpTestcase  - firefox Browser Launched!
+INFO    2019-04-03 12:07:14,825 [main] FbSignUp.FacebookSignUpTestcase  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 12:07:14,972 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-03 12:07:15,078 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-03 12:07:15,235 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: email_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 12:07:15,363 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: reemail_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 12:07:15,441 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-03 12:07:15,807 [main] FbSignUp.FacebookSignUpTestcase  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-03 12:07:15,890 [main] FbSignUp.FacebookSignUpTestcase  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-03 12:07:16,218 [main] FbSignUp.FacebookSignUpTestcase  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-03 12:07:16,488 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:femail_XPATH
+INFO    2019-04-03 12:07:16,819 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:signupbtn_XPATH
+ERROR   2019-04-03 12:07:26,867 [main] FbSignUp.FacebookSignUpTestcase  - Element updatecontactinfo_XPATH not present on the page!
+INFO    2019-04-03 12:09:05,406 [main] FbSignUp.FacebookSignUpTestcase  - Signup property file loaded!
+INFO    2019-04-03 12:09:05,406 [main] FbSignUp.FacebookSignUpTestcase  - Config file loaded!
+INFO    2019-04-03 12:09:12,149 [main] FbSignUp.FacebookSignUpTestcase  - firefox Browser Launched!
+INFO    2019-04-03 12:09:32,582 [main] FbSignUp.FacebookSignUpTestcase  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 12:09:32,723 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-03 12:09:32,832 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-03 12:09:32,988 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: email_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 12:09:33,129 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: reemail_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 12:09:33,207 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-03 12:09:33,582 [main] FbSignUp.FacebookSignUpTestcase  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-03 12:09:33,663 [main] FbSignUp.FacebookSignUpTestcase  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-03 12:09:33,971 [main] FbSignUp.FacebookSignUpTestcase  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-03 12:09:34,237 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:femail_XPATH
+INFO    2019-04-03 12:09:34,534 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:signupbtn_XPATH
+ERROR   2019-04-03 12:09:44,591 [main] FbSignUp.FacebookSignUpTestcase  - Element updatecontactinfo_XPATH not present on the page!
+INFO    2019-04-03 12:13:58,715 [main] FbSignUp.FacebookSignUpTestcase  - Signup property file loaded!
+INFO    2019-04-03 12:13:58,717 [main] FbSignUp.FacebookSignUpTestcase  - Config file loaded!
+INFO    2019-04-03 12:14:05,854 [main] FbSignUp.FacebookSignUpTestcase  - firefox Browser Launched!
+INFO    2019-04-03 12:14:23,412 [main] FbSignUp.FacebookSignUpTestcase  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 12:14:23,549 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-03 12:14:23,638 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-03 12:14:23,801 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: email_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 12:14:23,919 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: reemail_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 12:14:24,020 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-03 12:14:24,381 [main] FbSignUp.FacebookSignUpTestcase  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-03 12:14:24,469 [main] FbSignUp.FacebookSignUpTestcase  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-03 12:14:24,756 [main] FbSignUp.FacebookSignUpTestcase  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-03 12:14:25,021 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:femail_XPATH
+INFO    2019-04-03 12:14:25,350 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:signupbtn_XPATH
+ERROR   2019-04-03 12:14:35,392 [main] FbSignUp.FacebookSignUpTestcase  - Element updatecontactinfo_XPATH not present on the page!
+INFO    2019-04-03 12:16:37,155 [main] FbSignUp.FacebookSignUpTestcase  - Signup property file loaded!
+INFO    2019-04-03 12:16:37,155 [main] FbSignUp.FacebookSignUpTestcase  - Config file loaded!
+INFO    2019-04-03 12:16:43,741 [main] FbSignUp.FacebookSignUpTestcase  - firefox Browser Launched!
+INFO    2019-04-03 12:17:02,006 [main] FbSignUp.FacebookSignUpTestcase  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 12:17:02,162 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-03 12:17:02,284 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-03 12:17:02,418 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: email_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 12:17:02,533 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: reemail_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 12:17:02,626 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-03 12:17:02,986 [main] FbSignUp.FacebookSignUpTestcase  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-03 12:17:03,021 [main] FbSignUp.FacebookSignUpTestcase  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-03 12:17:03,323 [main] FbSignUp.FacebookSignUpTestcase  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-03 12:17:03,586 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:femail_XPATH
+INFO    2019-04-03 12:17:03,913 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:signupbtn_XPATH
+ERROR   2019-04-03 12:17:13,926 [main] FbSignUp.FacebookSignUpTestcase  - Element updatecontactinfo_XPATH not present on the page!
+INFO    2019-04-03 12:17:56,672 [main] FbSignUp.FacebookSignUpTestcase  - Signup property file loaded!
+INFO    2019-04-03 12:17:56,688 [main] FbSignUp.FacebookSignUpTestcase  - Config file loaded!
+INFO    2019-04-03 12:18:06,145 [main] FbSignUp.FacebookSignUpTestcase  - firefox Browser Launched!
+INFO    2019-04-03 12:18:09,820 [main] FbSignUp.FacebookSignUpTestcase  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 12:18:10,119 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-03 12:18:10,340 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-03 12:18:10,588 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: email_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 12:18:10,942 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: reemail_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 12:18:11,141 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-03 12:18:11,631 [main] FbSignUp.FacebookSignUpTestcase  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-03 12:18:11,707 [main] FbSignUp.FacebookSignUpTestcase  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-03 12:18:12,068 [main] FbSignUp.FacebookSignUpTestcase  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-03 12:18:12,319 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:femail_XPATH
+INFO    2019-04-03 12:18:12,645 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:signupbtn_XPATH
+ERROR   2019-04-03 12:18:22,725 [main] FbSignUp.FacebookSignUpTestcase  - Element updatecontactinfo_XPATH not present on the page!
+INFO    2019-04-03 12:20:06,805 [main] FbSignUp.FacebookSignUpTestcase  - Signup property file loaded!
+INFO    2019-04-03 12:20:06,805 [main] FbSignUp.FacebookSignUpTestcase  - Config file loaded!
+INFO    2019-04-03 12:20:13,310 [main] FbSignUp.FacebookSignUpTestcase  - firefox Browser Launched!
+INFO    2019-04-03 12:20:31,273 [main] FbSignUp.FacebookSignUpTestcase  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 12:20:31,408 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-03 12:20:31,527 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-03 12:20:31,683 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: email_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 12:20:31,836 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: reemail_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 12:20:31,914 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-03 12:20:32,286 [main] FbSignUp.FacebookSignUpTestcase  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-03 12:20:32,383 [main] FbSignUp.FacebookSignUpTestcase  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-03 12:20:32,670 [main] FbSignUp.FacebookSignUpTestcase  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-03 12:20:32,931 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:femail_XPATH
+INFO    2019-04-03 12:20:33,241 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:signupbtn_XPATH
+ERROR   2019-04-03 12:20:43,300 [main] FbSignUp.FacebookSignUpTestcase  - Element updatecontactinfo_XPATH not present on the page!
+INFO    2019-04-03 12:32:16,003 [main] FbSignUp.FacebookSignUpTestcase  - Signup property file loaded!
+INFO    2019-04-03 12:32:16,003 [main] FbSignUp.FacebookSignUpTestcase  - Config file loaded!
+INFO    2019-04-03 12:32:22,228 [main] FbSignUp.FacebookSignUpTestcase  - firefox Browser Launched!
+INFO    2019-04-03 12:32:27,345 [main] FbSignUp.FacebookSignUpTestcase  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 12:32:27,548 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-03 12:32:27,751 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-03 12:32:27,908 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: email_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 12:32:28,048 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: reemail_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 12:32:28,158 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-03 12:32:28,568 [main] FbSignUp.FacebookSignUpTestcase  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-03 12:32:28,615 [main] FbSignUp.FacebookSignUpTestcase  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-03 12:32:28,943 [main] FbSignUp.FacebookSignUpTestcase  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+ERROR   2019-04-03 12:32:29,006 [main] FbSignUp.FacebookSignUpTestcase  - Error while clicking an element femail_XPATH
+INFO    2019-04-03 12:33:39,821 [main] FbSignUp.FacebookSignUpTestcase  - Signup property file loaded!
+INFO    2019-04-03 12:33:39,821 [main] FbSignUp.FacebookSignUpTestcase  - Config file loaded!
+INFO    2019-04-03 12:33:46,659 [main] FbSignUp.FacebookSignUpTestcase  - firefox Browser Launched!
+INFO    2019-04-03 12:33:51,787 [main] FbSignUp.FacebookSignUpTestcase  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 12:33:51,959 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-03 12:33:52,115 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-03 12:33:52,272 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: email_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 12:33:52,412 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: reemail_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 12:33:52,553 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-03 12:33:52,948 [main] FbSignUp.FacebookSignUpTestcase  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-03 12:33:53,042 [main] FbSignUp.FacebookSignUpTestcase  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-03 12:33:53,386 [main] FbSignUp.FacebookSignUpTestcase  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-03 12:33:53,667 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:femail_XPATH
+INFO    2019-04-03 12:33:53,973 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:signupbtn_XPATH
+INFO    2019-04-03 12:33:56,741 [main] FbSignUp.FacebookSignUpTestcase  - An element: updatecontactinfo_XPATH is present on page!
+INFO    2019-04-03 12:33:56,788 [main] FbSignUp.FacebookSignUpTestcase  - An element: profileName_XPATH is present on page!
+INFO    2019-04-03 12:41:45,610 [main] FbSignUp.FacebookSignUpTestcase  - Signup property file loaded!
+INFO    2019-04-03 12:41:45,615 [main] FbSignUp.FacebookSignUpTestcase  - Config file loaded!
+INFO    2019-04-03 12:41:52,732 [main] FbSignUp.FacebookSignUpTestcase  - firefox Browser Launched!
+INFO    2019-04-03 12:41:58,721 [main] FbSignUp.FacebookSignUpTestcase  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 12:41:58,953 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-03 12:41:59,111 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-03 12:41:59,291 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: email_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 12:41:59,463 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: reemail_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 12:41:59,560 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-03 12:41:59,960 [main] FbSignUp.FacebookSignUpTestcase  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-03 12:42:00,011 [main] FbSignUp.FacebookSignUpTestcase  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-03 12:42:00,306 [main] FbSignUp.FacebookSignUpTestcase  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-03 12:42:00,542 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:femail_XPATH
+INFO    2019-04-03 12:42:00,831 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:signupbtn_XPATH
+ERROR   2019-04-03 12:42:10,884 [main] FbSignUp.FacebookSignUpTestcase  - Element updatecontactinfo_XPATH not present on the page!
+INFO    2019-04-03 12:50:32,938 [main] FbSignUp.FacebookSignUpTestcase  - Signup property file loaded!
+INFO    2019-04-03 12:50:32,940 [main] FbSignUp.FacebookSignUpTestcase  - Config file loaded!
+INFO    2019-04-03 12:50:41,886 [main] FbSignUp.FacebookSignUpTestcase  - firefox Browser Launched!
+INFO    2019-04-03 12:51:04,542 [main] FbSignUp.FacebookSignUpTestcase  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 12:51:28,951 [main] FbSignUp.FacebookSignUpTestcase  - Signup property file loaded!
+INFO    2019-04-03 12:51:28,953 [main] FbSignUp.FacebookSignUpTestcase  - Config file loaded!
+INFO    2019-04-03 12:51:38,169 [main] FbSignUp.FacebookSignUpTestcase  - firefox Browser Launched!
+INFO    2019-04-03 12:52:01,537 [main] FbSignUp.FacebookSignUpTestcase  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 12:55:10,240 [main] FbSignUp.FacebookSignUpTestcase  - Signup property file loaded!
+INFO    2019-04-03 12:55:10,242 [main] FbSignUp.FacebookSignUpTestcase  - Config file loaded!
+INFO    2019-04-03 12:55:19,579 [main] FbSignUp.FacebookSignUpTestcase  - firefox Browser Launched!
+INFO    2019-04-03 12:55:25,171 [main] FbSignUp.FacebookSignUpTestcase  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 13:02:42,277 [main] FbSignUp.FacebookSignUpTestcase  - Signup property file loaded!
+INFO    2019-04-03 13:02:42,279 [main] FbSignUp.FacebookSignUpTestcase  - Config file loaded!
+INFO    2019-04-03 13:02:52,051 [main] FbSignUp.FacebookSignUpTestcase  - firefox Browser Launched!
+INFO    2019-04-03 13:03:14,949 [main] FbSignUp.FacebookSignUpTestcase  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 13:03:15,098 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-03 13:03:15,198 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-03 13:03:15,351 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: email_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 13:03:15,474 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: reemail_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 13:03:15,553 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-03 13:03:15,900 [main] FbSignUp.FacebookSignUpTestcase  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-03 13:03:15,952 [main] FbSignUp.FacebookSignUpTestcase  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-03 13:03:16,212 [main] FbSignUp.FacebookSignUpTestcase  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-03 13:03:16,461 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:femail_XPATH
+INFO    2019-04-03 13:03:16,774 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:signupbtn_XPATH
+ERROR   2019-04-03 13:03:26,828 [main] FbSignUp.FacebookSignUpTestcase  - Element updatecontactinfo_XPATH not present on the page!
+INFO    2019-04-03 13:13:16,074 [main] FbSignUp.FacebookSignUpTestcase  - Signup property file loaded!
+INFO    2019-04-03 13:13:16,076 [main] FbSignUp.FacebookSignUpTestcase  - Config file loaded!
+INFO    2019-04-03 13:13:23,752 [main] FbSignUp.FacebookSignUpTestcase  - firefox Browser Launched!
+INFO    2019-04-03 13:13:42,065 [main] FbSignUp.FacebookSignUpTestcase  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 13:13:42,237 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-03 13:13:42,367 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-03 13:13:42,537 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: email_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 13:13:42,680 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: reemail_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 13:13:42,790 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-03 13:13:43,138 [main] FbSignUp.FacebookSignUpTestcase  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-03 13:13:43,205 [main] FbSignUp.FacebookSignUpTestcase  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-03 13:13:43,474 [main] FbSignUp.FacebookSignUpTestcase  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-03 13:13:43,740 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:femail_XPATH
+INFO    2019-04-03 13:13:44,063 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:signupbtn_XPATH
+ERROR   2019-04-03 13:13:54,118 [main] FbSignUp.FacebookSignUpTestcase  - Element updatecontactinfo_XPATH not present on the page!
+INFO    2019-04-03 13:14:26,074 [main] FbSignUp.FacebookSignUpTestcase  - Signup property file loaded!
+INFO    2019-04-03 13:14:26,076 [main] FbSignUp.FacebookSignUpTestcase  - Config file loaded!
+INFO    2019-04-03 13:14:32,874 [main] FbSignUp.FacebookSignUpTestcase  - firefox Browser Launched!
+INFO    2019-04-03 13:14:48,376 [main] FbSignUp.FacebookSignUpTestcase  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 18:45:58,440 [main] FbSignUp.FacebookSignUpTestcase  - Signup property file loaded!
+INFO    2019-04-03 18:45:58,440 [main] FbSignUp.FacebookSignUpTestcase  - Config file loaded!
+INFO    2019-04-03 18:46:13,204 [main] FbSignUp.FacebookSignUpTestcase  - firefox Browser Launched!
+INFO    2019-04-03 18:46:25,261 [main] FbSignUp.FacebookSignUpTestcase  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 18:57:58,517 [main] FbSignUp.FacebookSignUpTestcase  - Signup property file loaded!
+INFO    2019-04-03 18:57:58,517 [main] FbSignUp.FacebookSignUpTestcase  - Config file loaded!
+INFO    2019-04-03 18:58:13,444 [main] FbSignUp.FacebookSignUpTestcase  - firefox Browser Launched!
+INFO    2019-04-03 18:58:27,253 [main] FbSignUp.FacebookSignUpTestcase  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 18:59:44,743 [main] FbSignUp.FacebookSignUpTestcase  - Signup property file loaded!
+INFO    2019-04-03 18:59:44,743 [main] FbSignUp.FacebookSignUpTestcase  - Config file loaded!
+INFO    2019-04-03 18:59:52,361 [main] FbSignUp.FacebookSignUpTestcase  - firefox Browser Launched!
+INFO    2019-04-03 18:59:56,276 [main] FbSignUp.FacebookSignUpTestcase  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 18:59:56,620 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-03 18:59:56,745 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-03 18:59:56,964 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: email_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 18:59:57,167 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: reemail_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 18:59:57,245 [main] FbSignUp.FacebookSignUpTestcase  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-03 18:59:57,927 [main] FbSignUp.FacebookSignUpTestcase  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-03 18:59:58,067 [main] FbSignUp.FacebookSignUpTestcase  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-03 18:59:58,395 [main] FbSignUp.FacebookSignUpTestcase  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-03 18:59:58,723 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:femail_XPATH
+INFO    2019-04-03 18:59:59,040 [main] FbSignUp.FacebookSignUpTestcase  - Clicking an element:signupbtn_XPATH
+ERROR   2019-04-03 19:00:09,262 [main] FbSignUp.FacebookSignUpTestcase  - Element updatecontactinfo_XPATH not present on the page!
+INFO    2019-04-03 19:24:05,991 [main] FbSignUp.FacebookSignUpTest  - Signup property file loaded!
+INFO    2019-04-03 19:24:05,991 [main] FbSignUp.FacebookSignUpTest  - Config file loaded!
+INFO    2019-04-03 19:24:13,131 [main] FbSignUp.FacebookSignUpTest  - firefox Browser Launched!
+INFO    2019-04-03 19:24:34,242 [main] FbSignUp.FacebookSignUpTest  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 19:24:34,445 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-03 19:24:34,570 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-03 19:24:34,775 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: email_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 19:24:34,916 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: reemail_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 19:24:35,010 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-03 19:24:35,385 [main] FbSignUp.FacebookSignUpTest  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-03 19:24:35,479 [main] FbSignUp.FacebookSignUpTest  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-03 19:24:35,841 [main] FbSignUp.FacebookSignUpTest  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-03 19:24:36,122 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:femail_XPATH
+INFO    2019-04-03 19:24:36,510 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:signupbtn_XPATH
+ERROR   2019-04-03 19:24:46,698 [main] FbSignUp.FacebookSignUpTest  - Element updatecontactinfo_XPATH not present on the page!
+INFO    2019-04-03 19:27:39,420 [main] FbSignUp.FacebookSignUpTest  - Signup property file loaded!
+INFO    2019-04-03 19:27:39,420 [main] FbSignUp.FacebookSignUpTest  - Config file loaded!
+INFO    2019-04-03 19:27:47,737 [main] FbSignUp.FacebookSignUpTest  - firefox Browser Launched!
+INFO    2019-04-03 19:28:08,418 [main] FbSignUp.FacebookSignUpTest  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 19:28:08,589 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-03 19:28:08,699 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-03 19:28:08,839 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: email_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 19:28:08,980 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: reemail_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 19:28:09,093 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-03 19:28:09,437 [main] FbSignUp.FacebookSignUpTest  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-03 19:28:09,546 [main] FbSignUp.FacebookSignUpTest  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-03 19:28:09,937 [main] FbSignUp.FacebookSignUpTest  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-03 19:28:10,218 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:femail_XPATH
+INFO    2019-04-03 19:28:10,609 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:signupbtn_XPATH
+ERROR   2019-04-03 19:28:20,668 [main] FbSignUp.FacebookSignUpTest  - Element updatecontactinfo_XPATH not present on the page!
+INFO    2019-04-03 19:29:22,157 [main] FbSignUp.FacebookSignUpTest  - Signup property file loaded!
+INFO    2019-04-03 19:29:22,161 [main] FbSignUp.FacebookSignUpTest  - Config file loaded!
+INFO    2019-04-03 19:29:30,664 [main] FbSignUp.FacebookSignUpTest  - firefox Browser Launched!
+INFO    2019-04-03 19:29:56,065 [main] FbSignUp.FacebookSignUpTest  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 19:29:56,214 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-03 19:29:56,307 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-03 19:29:56,450 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: email_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 19:29:56,597 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: reemail_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 19:29:56,686 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-03 19:29:57,065 [main] FbSignUp.FacebookSignUpTest  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-03 19:29:57,157 [main] FbSignUp.FacebookSignUpTest  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-03 19:29:57,438 [main] FbSignUp.FacebookSignUpTest  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-03 19:29:57,699 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:femail_XPATH
+INFO    2019-04-03 19:29:58,051 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:signupbtn_XPATH
+INFO    2019-04-03 19:30:01,277 [main] FbSignUp.FacebookSignUpTest  - An element: updatecontactinfo_XPATH is present on page!
+INFO    2019-04-03 19:30:01,313 [main] FbSignUp.FacebookSignUpTest  - An element: profileName_XPATH is present on page!
+INFO    2019-04-03 19:30:55,719 [main] FbSignUp.FacebookSignUpTest  - Signup property file loaded!
+INFO    2019-04-03 19:30:55,719 [main] FbSignUp.FacebookSignUpTest  - Config file loaded!
+INFO    2019-04-03 19:31:05,281 [main] FbSignUp.FacebookSignUpTest  - firefox Browser Launched!
+INFO    2019-04-03 19:31:28,332 [main] FbSignUp.FacebookSignUpTest  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 19:31:28,512 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-03 19:31:28,680 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-03 19:31:28,876 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: email_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 19:31:29,040 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: reemail_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 19:31:29,144 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-03 19:31:29,524 [main] FbSignUp.FacebookSignUpTest  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-03 19:31:29,620 [main] FbSignUp.FacebookSignUpTest  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-03 19:31:29,921 [main] FbSignUp.FacebookSignUpTest  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-03 19:31:30,233 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:femail_XPATH
+INFO    2019-04-03 19:31:30,633 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:signupbtn_XPATH
+INFO    2019-04-03 19:31:33,665 [main] FbSignUp.FacebookSignUpTest  - An element: updatecontactinfo_XPATH is present on page!
+INFO    2019-04-03 19:31:33,721 [main] FbSignUp.FacebookSignUpTest  - An element: profileName_XPATH is present on page!
+INFO    2019-04-03 19:34:07,900 [main] FbSignUp.FacebookSignUpTest  - Signup property file loaded!
+INFO    2019-04-03 19:34:07,915 [main] FbSignUp.FacebookSignUpTest  - Config file loaded!
+INFO    2019-04-03 19:34:09,301 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using geckodriver 0.24.0 (since Mozilla Firefox 66 is installed in your machine)
+INFO    2019-04-03 19:34:09,332 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.gecko.driver as C:\Users\bhaum\.m2\repository\webdriver\geckodriver\win64\0.24.0\geckodriver.exe
+INFO    2019-04-03 19:34:16,996 [main] FbSignUp.FacebookSignUpTest  - firefox Browser Launched!
+INFO    2019-04-03 19:34:20,800 [main] FbSignUp.FacebookSignUpTest  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 19:34:21,009 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-03 19:34:21,118 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-03 19:34:21,284 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: email_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 19:34:21,440 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: reemail_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 19:34:21,565 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-03 19:34:21,999 [main] FbSignUp.FacebookSignUpTest  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-03 19:34:22,046 [main] FbSignUp.FacebookSignUpTest  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-03 19:34:22,346 [main] FbSignUp.FacebookSignUpTest  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-03 19:34:22,683 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:femail_XPATH
+INFO    2019-04-03 19:34:22,994 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:signupbtn_XPATH
+INFO    2019-04-03 19:34:26,012 [main] FbSignUp.FacebookSignUpTest  - An element: updatecontactinfo_XPATH is present on page!
+INFO    2019-04-03 19:34:26,078 [main] FbSignUp.FacebookSignUpTest  - An element: profileName_XPATH is present on page!
+INFO    2019-04-03 22:30:15,220 [main] FbSignUp.FacebookSignUpTest  - Signup property file loaded!
+INFO    2019-04-03 22:30:15,222 [main] FbSignUp.FacebookSignUpTest  - Config file loaded!
+INFO    2019-04-03 22:30:17,184 [main] io.github.bonigarcia.wdm.WebDriverManager  - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+INFO    2019-04-03 22:30:18,665 [main] io.github.bonigarcia.wdm.WebDriverManager  - Latest version of geckodriver is 0.24.0
+INFO    2019-04-03 22:30:18,725 [main] io.github.bonigarcia.wdm.Downloader  - Using binary driver previously downloaded
+INFO    2019-04-03 22:30:18,727 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.gecko.driver as C:\Users\bhaum\.m2\repository\webdriver\geckodriver\win64\0.24.0\geckodriver.exe
+INFO    2019-04-03 22:30:26,256 [main] FbSignUp.FacebookSignUpTest  - firefox Browser Launched!
+INFO    2019-04-03 22:30:41,969 [main] FbSignUp.FacebookSignUpTest  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 22:30:42,167 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-03 22:30:42,295 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-03 22:30:42,467 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: email_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 22:30:42,604 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: reemail_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 22:30:42,710 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-03 22:30:43,049 [main] FbSignUp.FacebookSignUpTest  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-03 22:30:43,168 [main] FbSignUp.FacebookSignUpTest  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-03 22:30:43,516 [main] FbSignUp.FacebookSignUpTest  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-03 22:30:43,805 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:femail_XPATH
+INFO    2019-04-03 22:30:44,211 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:signupbtn_XPATH
+INFO    2019-04-03 22:30:49,469 [main] FbSignUp.FacebookSignUpTest  - An element: updatecontactinfo_XPATH is present on page!
+INFO    2019-04-03 22:30:49,520 [main] FbSignUp.FacebookSignUpTest  - An element: profileName_XPATH is present on page!
+INFO    2019-04-03 23:08:06,629 [main] FbSignUp.FacebookSignUpTest  - Signup property file loaded!
+INFO    2019-04-03 23:08:06,630 [main] FbSignUp.FacebookSignUpTest  - Config file loaded!
+INFO    2019-04-03 23:08:08,700 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using geckodriver 0.24.0 (since Mozilla Firefox 66 is installed in your machine)
+INFO    2019-04-03 23:08:08,739 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.gecko.driver as C:\Users\bhaum\.m2\repository\webdriver\geckodriver\win64\0.24.0\geckodriver.exe
+INFO    2019-04-03 23:08:19,683 [main] FbSignUp.FacebookSignUpTest  - firefox Browser Launched!
+INFO    2019-04-03 23:08:23,572 [main] FbSignUp.FacebookSignUpTest  - Navigated to https://www.facebook.com/
+INFO    2019-04-03 23:08:23,990 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-03 23:08:24,130 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-03 23:08:24,282 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: email_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 23:08:24,430 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: reemail_XPATHValue: abc2312@gmail.com
+INFO    2019-04-03 23:08:24,547 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-03 23:08:24,943 [main] FbSignUp.FacebookSignUpTest  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-03 23:08:25,036 [main] FbSignUp.FacebookSignUpTest  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-03 23:08:25,332 [main] FbSignUp.FacebookSignUpTest  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-03 23:08:25,576 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:femail_XPATH
+INFO    2019-04-03 23:08:25,865 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:signupbtn_XPATH
+INFO    2019-04-03 23:08:30,269 [main] FbSignUp.FacebookSignUpTest  - An element: updatecontactinfo_XPATH is present on page!
+INFO    2019-04-03 23:08:30,316 [main] FbSignUp.FacebookSignUpTest  - An element: profileName_XPATH is present on page!
+INFO    2019-04-04 10:01:08,282 [main] FbSignUp.FacebookSignUpTest  - Signup property file loaded!
+INFO    2019-04-04 10:01:08,285 [main] FbSignUp.FacebookSignUpTest  - Config file loaded!
+INFO    2019-04-04 10:01:14,738 [main] io.github.bonigarcia.wdm.WebDriverManager  - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+INFO    2019-04-04 10:01:20,520 [main] io.github.bonigarcia.wdm.WebDriverManager  - Latest version of geckodriver is 0.24.0
+INFO    2019-04-04 10:01:20,764 [main] io.github.bonigarcia.wdm.Downloader  - Using binary driver previously downloaded
+INFO    2019-04-04 10:01:20,765 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.gecko.driver as C:\Users\bhaum\.m2\repository\webdriver\geckodriver\win64\0.24.0\geckodriver.exe
+INFO    2019-04-04 10:01:30,130 [main] FbSignUp.FacebookSignUpTest  - firefox Browser Launched!
+INFO    2019-04-04 10:01:48,312 [main] FbSignUp.FacebookSignUpTest  - Navigated to https://www.facebook.com/
+INFO    2019-04-04 10:01:48,560 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-04 10:01:48,693 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-04 10:01:48,911 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: email_XPATHValue: abc2312@gmail.com
+INFO    2019-04-04 10:01:49,192 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: reemail_XPATHValue: abc2312@gmail.com
+INFO    2019-04-04 10:01:49,283 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-04 10:01:49,628 [main] FbSignUp.FacebookSignUpTest  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-04 10:01:49,672 [main] FbSignUp.FacebookSignUpTest  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-04 10:01:49,942 [main] FbSignUp.FacebookSignUpTest  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-04 10:01:50,224 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:femail_XPATH
+INFO    2019-04-04 10:01:50,501 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:signupbtn_XPATH
+ERROR   2019-04-04 10:02:00,529 [main] FbSignUp.FacebookSignUpTest  - Element updatecontactinfo_XPATH not present on the page!
+INFO    2019-04-04 10:05:57,000 [main] FbSignUp.FacebookSignUpTest  - Signup property file loaded!
+INFO    2019-04-04 10:05:57,002 [main] FbSignUp.FacebookSignUpTest  - Config file loaded!
+INFO    2019-04-04 10:05:57,847 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using geckodriver 0.24.0 (since Mozilla Firefox 66 is installed in your machine)
+INFO    2019-04-04 10:05:57,880 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.gecko.driver as C:\Users\bhaum\.m2\repository\webdriver\geckodriver\win64\0.24.0\geckodriver.exe
+INFO    2019-04-04 10:06:05,135 [main] FbSignUp.FacebookSignUpTest  - firefox Browser Launched!
+INFO    2019-04-04 10:06:28,550 [main] FbSignUp.FacebookSignUpTest  - Navigated to https://www.facebook.com/
+INFO    2019-04-04 10:06:28,791 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-04 10:06:28,917 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-04 10:06:29,128 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: email_XPATHValue: abcd2312@gmail.com
+INFO    2019-04-04 10:06:29,320 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: reemail_XPATHValue: abcd2312@gmail.com
+INFO    2019-04-04 10:06:29,443 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-04 10:06:29,815 [main] FbSignUp.FacebookSignUpTest  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-04 10:06:29,868 [main] FbSignUp.FacebookSignUpTest  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-04 10:06:30,137 [main] FbSignUp.FacebookSignUpTest  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-04 10:06:30,382 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:femail_XPATH
+INFO    2019-04-04 10:06:30,656 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:signupbtn_XPATH
+ERROR   2019-04-04 10:06:40,690 [main] FbSignUp.FacebookSignUpTest  - Element updatecontactinfo_XPATH not present on the page!
+INFO    2019-04-04 10:08:24,592 [main] FbSignUp.FacebookSignUpTest  - Signup property file loaded!
+INFO    2019-04-04 10:08:24,594 [main] FbSignUp.FacebookSignUpTest  - Config file loaded!
+INFO    2019-04-04 10:08:25,433 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 73.0.3683.68 (since Google Chrome 73 is installed in your machine)
+INFO    2019-04-04 10:08:25,469 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\bhaum\.m2\repository\webdriver\chromedriver\win32\73.0.3683.68\chromedriver.exe
+INFO    2019-04-04 10:08:32,081 [main] FbSignUp.FacebookSignUpTest  - chrome Browser Launched!
+INFO    2019-04-04 10:09:12,798 [main] FbSignUp.FacebookSignUpTest  - Navigated to https://www.facebook.com/
+INFO    2019-04-04 10:09:13,253 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-04 10:09:13,498 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-04 10:09:13,811 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: email_XPATHValue: abcd2312@gmail.com
+INFO    2019-04-04 10:09:14,152 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: reemail_XPATHValue: abcd2312@gmail.com
+INFO    2019-04-04 10:09:14,331 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-04 10:09:14,607 [main] FbSignUp.FacebookSignUpTest  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-04 10:09:14,707 [main] FbSignUp.FacebookSignUpTest  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-04 10:09:14,845 [main] FbSignUp.FacebookSignUpTest  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-04 10:09:14,965 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:femail_XPATH
+INFO    2019-04-04 10:09:15,092 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:signupbtn_XPATH
+ERROR   2019-04-04 10:09:37,299 [main] FbSignUp.FacebookSignUpTest  - Element updatecontactinfo_XPATH not present on the page!
+INFO    2019-04-04 10:27:15,783 [main] FbSignUp.FacebookSignUpTest  - Signup property file loaded!
+INFO    2019-04-04 10:27:15,784 [main] FbSignUp.FacebookSignUpTest  - Config file loaded!
+INFO    2019-04-04 10:27:16,659 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 73.0.3683.68 (since Google Chrome 73 is installed in your machine)
+INFO    2019-04-04 10:27:16,697 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\bhaum\.m2\repository\webdriver\chromedriver\win32\73.0.3683.68\chromedriver.exe
+INFO    2019-04-04 10:27:20,982 [main] FbSignUp.FacebookSignUpTest  - chrome Browser Launched!
+INFO    2019-04-04 10:27:55,272 [main] FbSignUp.FacebookSignUpTest  - Navigated to https://www.facebook.com/
+INFO    2019-04-04 10:27:56,132 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-04 10:27:56,304 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-04 10:27:56,634 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: email_XPATHValue: abcd2312@gmail.com
+INFO    2019-04-04 10:27:57,078 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: reemail_XPATHValue: abcd2312@gmail.com
+INFO    2019-04-04 10:27:57,282 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-04 10:27:57,554 [main] FbSignUp.FacebookSignUpTest  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-04 10:27:57,647 [main] FbSignUp.FacebookSignUpTest  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-04 10:27:57,866 [main] FbSignUp.FacebookSignUpTest  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+ERROR   2019-04-04 10:28:07,941 [main] FbSignUp.FacebookSignUpTest  - Error while clicking an element femail_XPATH
+INFO    2019-04-04 10:29:35,649 [main] FbSignUp.FacebookSignUpTest  - Signup property file loaded!
+INFO    2019-04-04 10:29:35,651 [main] FbSignUp.FacebookSignUpTest  - Config file loaded!
+INFO    2019-04-04 10:29:36,439 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 73.0.3683.68 (since Google Chrome 73 is installed in your machine)
+INFO    2019-04-04 10:29:36,468 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\bhaum\.m2\repository\webdriver\chromedriver\win32\73.0.3683.68\chromedriver.exe
+INFO    2019-04-04 10:29:40,985 [main] FbSignUp.FacebookSignUpTest  - chrome Browser Launched!
+INFO    2019-04-04 10:30:13,993 [main] FbSignUp.FacebookSignUpTest  - Navigated to https://www.facebook.com/
+INFO    2019-04-04 10:30:15,463 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-04 10:30:15,608 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-04 10:30:15,909 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: email_XPATHValue: abcd2312@gmail.com
+INFO    2019-04-04 10:30:16,161 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: reemail_XPATHValue: abcd2312@gmail.com
+INFO    2019-04-04 10:30:16,329 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-04 10:30:16,503 [main] FbSignUp.FacebookSignUpTest  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-04 10:30:16,573 [main] FbSignUp.FacebookSignUpTest  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-04 10:30:16,700 [main] FbSignUp.FacebookSignUpTest  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-04 10:30:16,794 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:femail_XPATH
+INFO    2019-04-04 10:30:16,914 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:signupbtn_XPATH
+INFO    2019-04-04 10:30:36,654 [main] FbSignUp.FacebookSignUpTest  - An element: updatecontactinfo_XPATH is present on page!
+INFO    2019-04-04 10:30:36,697 [main] FbSignUp.FacebookSignUpTest  - An element: profileName_XPATH is present on page!
+INFO    2019-04-04 10:31:35,812 [main] FbSignUp.FacebookSignUpTest  - Signup property file loaded!
+INFO    2019-04-04 10:31:35,814 [main] FbSignUp.FacebookSignUpTest  - Config file loaded!
+INFO    2019-04-04 10:31:36,635 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 73.0.3683.68 (since Google Chrome 73 is installed in your machine)
+INFO    2019-04-04 10:31:36,673 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\bhaum\.m2\repository\webdriver\chromedriver\win32\73.0.3683.68\chromedriver.exe
+INFO    2019-04-04 10:31:40,378 [main] FbSignUp.FacebookSignUpTest  - chrome Browser Launched!
+INFO    2019-04-04 10:32:43,210 [main] FbSignUp.FacebookSignUpTest  - Navigated to https://www.facebook.com/
+INFO    2019-04-04 10:32:43,484 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-04 10:32:43,750 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-04 10:32:44,226 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: email_XPATHValue: abcd2312@gmail.com
+INFO    2019-04-04 10:32:44,606 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: reemail_XPATHValue: abcd2312@gmail.com
+INFO    2019-04-04 10:32:44,851 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-04 10:32:45,086 [main] FbSignUp.FacebookSignUpTest  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-04 10:32:45,198 [main] FbSignUp.FacebookSignUpTest  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-04 10:32:45,331 [main] FbSignUp.FacebookSignUpTest  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-04 10:32:45,453 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:femail_XPATH
+INFO    2019-04-04 10:32:45,579 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:signupbtn_XPATH
+ERROR   2019-04-04 10:33:09,523 [main] FbSignUp.FacebookSignUpTest  - Element updatecontactinfo_XPATH not present on the page!
+INFO    2019-04-04 10:57:59,678 [main] FbSignUp.FacebookSignUpTest  - Signup property file loaded!
+INFO    2019-04-04 10:57:59,696 [main] FbSignUp.FacebookSignUpTest  - Config file loaded!
+INFO    2019-04-04 10:58:01,127 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 73.0.3683.68 (since Google Chrome 73 is installed in your machine)
+INFO    2019-04-04 10:58:01,156 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\bhaum\.m2\repository\webdriver\chromedriver\win32\73.0.3683.68\chromedriver.exe
+INFO    2019-04-04 10:58:12,432 [main] FbSignUp.FacebookSignUpTest  - chrome Browser Launched!
+INFO    2019-04-04 10:58:40,413 [main] FbSignUp.FacebookSignUpTest  - Navigated to https://www.facebook.com/
+INFO    2019-04-04 10:58:41,900 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-04 10:58:42,106 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-04 10:58:42,545 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: email_XPATHValue: abcd2312@gmail.com
+INFO    2019-04-04 10:58:42,887 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: reemail_XPATHValue: abcd2312@gmail.com
+INFO    2019-04-04 10:58:43,090 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-04 10:58:43,381 [main] FbSignUp.FacebookSignUpTest  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-04 10:58:43,474 [main] FbSignUp.FacebookSignUpTest  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-04 10:58:43,654 [main] FbSignUp.FacebookSignUpTest  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-04 10:58:43,796 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:femail_XPATH
+INFO    2019-04-04 10:58:43,918 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:signupbtn_XPATH
+INFO    2019-04-04 10:59:00,385 [main] FbSignUp.FacebookSignUpTest  - An element: updatecontactinfo_XPATH is present on page!
+INFO    2019-04-04 10:59:00,431 [main] FbSignUp.FacebookSignUpTest  - An element: profileName_XPATH is present on page!
+INFO    2019-04-04 11:01:08,417 [main] FbSignUp.FacebookSignUpTest  - Signup property file loaded!
+INFO    2019-04-04 11:01:08,421 [main] FbSignUp.FacebookSignUpTest  - Config file loaded!
+INFO    2019-04-04 11:01:09,388 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 73.0.3683.68 (since Google Chrome 73 is installed in your machine)
+INFO    2019-04-04 11:01:09,413 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\bhaum\.m2\repository\webdriver\chromedriver\win32\73.0.3683.68\chromedriver.exe
+INFO    2019-04-04 11:01:18,345 [main] FbSignUp.FacebookSignUpTest  - chrome Browser Launched!
+INFO    2019-04-04 11:01:54,725 [main] FbSignUp.FacebookSignUpTest  - Navigated to https://www.facebook.com/
+INFO    2019-04-04 11:01:55,715 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-04 11:01:55,979 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-04 11:01:56,254 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: email_XPATHValue: abcd2312@gmail.com
+INFO    2019-04-04 11:01:57,302 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: reemail_XPATHValue: abcd2312@gmail.com
+INFO    2019-04-04 11:01:57,492 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-04 11:01:58,463 [main] FbSignUp.FacebookSignUpTest  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-04 11:01:58,586 [main] FbSignUp.FacebookSignUpTest  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-04 11:01:58,755 [main] FbSignUp.FacebookSignUpTest  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-04 11:01:58,980 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:femail_XPATH
+INFO    2019-04-04 11:01:59,235 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:signupbtn_XPATH
+ERROR   2019-04-04 11:02:31,165 [main] FbSignUp.FacebookSignUpTest  - Element updatecontactinfo_XPATH not present on the page!
+INFO    2019-04-04 11:47:49,450 [main] FbSignUp.FacebookSignUpTest  - Signup property file loaded!
+INFO    2019-04-04 11:47:49,452 [main] FbSignUp.FacebookSignUpTest  - Config file loaded!
+INFO    2019-04-04 11:47:50,485 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 73.0.3683.68 (since Google Chrome 73 is installed in your machine)
+INFO    2019-04-04 11:47:50,518 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\bhaum\.m2\repository\webdriver\chromedriver\win32\73.0.3683.68\chromedriver.exe
+INFO    2019-04-04 11:47:55,397 [main] FbSignUp.FacebookSignUpTest  - chrome Browser Launched!
+INFO    2019-04-04 11:48:29,857 [main] FbSignUp.FacebookSignUpTest  - Navigated to https://www.facebook.com/
+INFO    2019-04-04 11:48:30,988 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: firstname_XPATHValue: Hetal
+INFO    2019-04-04 11:48:31,184 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: surname_XPATHValue: Selenium
+INFO    2019-04-04 11:48:31,513 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: email_XPATHValue: abcd2312@gmail.com
+INFO    2019-04-04 11:48:31,879 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: reemail_XPATHValue: abcd2312@gmail.com
+INFO    2019-04-04 11:48:32,271 [main] FbSignUp.FacebookSignUpTest  - Typing in an element: password_XPATHValue: abcd@1244
+INFO    2019-04-04 11:48:32,464 [main] FbSignUp.FacebookSignUpTest  - date_VALUE is selected in daydropdown_XPATHdropdown!
+INFO    2019-04-04 11:48:32,549 [main] FbSignUp.FacebookSignUpTest  - month_VALUE is selected in monthdropdown_XPATHdropdown!
+INFO    2019-04-04 11:48:32,694 [main] FbSignUp.FacebookSignUpTest  - year_VALUE is selected in yeardropdown_XPATHdropdown!
+INFO    2019-04-04 11:48:32,816 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:femail_XPATH
+INFO    2019-04-04 11:48:32,953 [main] FbSignUp.FacebookSignUpTest  - Clicking an element:signupbtn_XPATH
+INFO    2019-04-04 11:48:43,315 [main] FbSignUp.FacebookSignUpTest  - An element: updatecontactinfo_XPATH is present on page!
+INFO    2019-04-04 11:48:43,350 [main] FbSignUp.FacebookSignUpTest  - An element: profileName_XPATH is present on page!
