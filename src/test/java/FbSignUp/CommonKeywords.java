@@ -2,20 +2,24 @@ package FbSignUp;
 
 import java.io.File;
 import java.util.Date;
+import java.util.concurrent.ThreadLocalRandom;
 import java.util.concurrent.TimeUnit;
-
 import org.apache.commons.io.FileUtils;
+import org.apache.commons.lang3.RandomStringUtils;
 import org.openqa.selenium.By;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
+
+import com.github.javafaker.Faker;
 
 import Base.BaseTest;
 import io.github.bonigarcia.wdm.WebDriverManager;
@@ -25,12 +29,12 @@ public class CommonKeywords extends BaseTest {
 	public static String filename;
 
 	/**
-	 * Opens browser and enters test URL. s@param browserName This is browser name
-	 * in which automation should run.It Should be updated accordingly in
-	 * config.properties file.
+	 * Opens browser and enters test URL.
 	 * 
-	 * @param testUrl This is testUrl in which automation should run.It should be
-	 *                updated accordingly in config.properties file.
+	 * @param browserName This is browser name in which automation should run.It
+	 *                    Should be updated accordingly in config.properties file.
+	 * @param testUrl     This is testUrl in which automation should run.It should
+	 *                    be updated accordingly in config.properties file.
 	 */
 
 	public static void openBrowserAndEnterUrl(String browserName, String testUrl) {
@@ -40,8 +44,11 @@ public class CommonKeywords extends BaseTest {
 			driver = new FirefoxDriver();
 
 		} else if (browserName.equals("chrome")) {
+
 			WebDriverManager.chromedriver().setup();
 			driver = new ChromeDriver();
+			ChromeOptions options = new ChromeOptions();
+			options.addArguments("--disable-notifications");
 		} else if (browserName.equals("ie")) {
 			WebDriverManager.iedriver().setup();
 			driver = new InternetExplorerDriver();
@@ -55,6 +62,57 @@ public class CommonKeywords extends BaseTest {
 	}
 
 	/**
+	 * Generates random test data and passes to data provider
+	 * @return testdata returns two dimensional array object of an test data
+	 */
+
+	public static Object[][] generateRandomTestdata() {
+
+		int lengthTestdata = 5;
+		int noOfTestdata = 1;
+		int noOfFields = 8;
+		boolean useLetters = true;
+		boolean useNumbers = false;
+
+		Object[][] testdata = new Object[noOfTestdata][noOfFields];
+		for (int i = 0; i < noOfTestdata; i++) {
+			String generatedString = RandomStringUtils.random(lengthTestdata, useLetters, useNumbers);
+			Faker faker = new Faker();
+			String firstName = faker.name().firstName();
+			String lastName = faker.name().lastName();
+			int randomDate = (int) (Math.random() * 27 + 1);
+			int randomMonth = (int) (Math.random() * 11 + 1);
+			int randomYear = ThreadLocalRandom.current().nextInt(1905, 2020);
+			String reverse = "";
+			for (int j = 0; j < noOfFields; j++) {
+				if (j == 0)
+					generatedString = firstName;
+				if (j == 1)
+					generatedString = lastName;
+				if (j == 2)
+					generatedString = generatedString.concat(firstName + "@gmail.com");
+				if (j == 3)
+					generatedString = testdata[i][j - 1].toString();
+				if (j == 4) {
+					for (int k = generatedString.length() - 1; k >= 0; k--) {
+						reverse = reverse + generatedString.charAt(k);
+					}
+					generatedString = reverse;
+				}
+				if (j == 5)
+					generatedString = Integer.toString(randomDate);
+				if (j == 6)
+					generatedString = Integer.toString(randomMonth);
+				if (j == 7)
+					generatedString = Integer.toString(randomYear);
+
+				testdata[i][j] = generatedString.toLowerCase();
+			}
+		}
+		return testdata;
+	}
+
+	/**
 	 * Sends value in textbox/element.
 	 * 
 	 * @param key   Textbox/Element name where value should be sent.XPATH/CSS/ID of
@@ -65,14 +123,18 @@ public class CommonKeywords extends BaseTest {
 
 	public static void sendKeys(String key, String value) {
 		try {
+
 			if (key.endsWith("_XPATH")) {
-				driver.findElement(By.xpath(fb.getProperty(key))).sendKeys(fb.getProperty(value));
+				driver.findElement(By.xpath(fb.getProperty(key))).clear();
+				driver.findElement(By.xpath(fb.getProperty(key))).sendKeys(value);
 			} else if (key.endsWith("_CSS")) {
-				driver.findElement(By.cssSelector(fb.getProperty(key))).sendKeys(fb.getProperty(value));
+				driver.findElement(By.xpath(fb.getProperty(key))).clear();
+				driver.findElement(By.cssSelector(fb.getProperty(key))).sendKeys(value);
 			} else if (key.endsWith("_ID")) {
-				driver.findElement(By.id(fb.getProperty(key))).sendKeys(fb.getProperty(value));
+				driver.findElement(By.xpath(fb.getProperty(key))).clear();
+				driver.findElement(By.id(fb.getProperty(key))).sendKeys(value);
 			}
-			log.info("Typing in an element: " + key + "Value: " + fb.getProperty(value));
+			log.info("Typing in an element: " + key + "Value: " + value);
 		} catch (Throwable t) {
 			log.error("Error while entering text in textbox " + key);
 			Assert.fail("Error while entering text in textbox " + key);
@@ -129,42 +191,27 @@ public class CommonKeywords extends BaseTest {
 			return true;
 		} catch (Throwable t) {
 			log.error("Element " + element + " not present on the page!");
-		
+
 		}
 		return false;
 
 	}
 
 	/**
-	 * Selects value from dropdown pn Webpage.
+	 * Selects value from dropdown on Webpage.
 	 * 
 	 * @param key           Dropdown name in which value needs to
 	 *                      select.XPATH/CSS/ID of a key should be added in
 	 *                      signup.properties file
-	 * @param dropDownValue Value of dropdown which needs to select.XPATH/CSS/ID of
-	 *                      a dropDownValue should be added in signup.properties
-	 *                      file
+	 * @param dropDownValue Value of dropdown which needs to select.
 	 * 
 	 */
 
 	public static void selectValueFromDropdown(String key, String dropDownValue) {
 		try {
-			if (key.endsWith("_XPATH")) {
-				WebElement dateDropDown = driver.findElement(By.xpath(fb.getProperty(key)));
-				Select select = new Select(dateDropDown);
-				select.selectByValue(fb.getProperty(dropDownValue));
-
-			} else if (key.endsWith("_CSS")) {
-				WebElement dateDropDown = driver.findElement(By.cssSelector(fb.getProperty(key)));
-				Select select = new Select(dateDropDown);
-				select.selectByValue(fb.getProperty(dropDownValue));
-
-			} else if (key.endsWith("_ID")) {
-				WebElement dateDropDown = driver.findElement(By.id(fb.getProperty(key)));
-				Select select = new Select(dateDropDown);
-				select.selectByValue(fb.getProperty(dropDownValue));
-
-			}
+			WebElement dateDropDown = driver.findElement(By.xpath(fb.getProperty(key)));
+			Select select = new Select(dateDropDown);
+			select.selectByValue(dropDownValue);
 			log.info(dropDownValue + " is selected in " + key + "dropdown!");
 		} catch (Throwable t) {
 			log.error("User is not able to select value " + dropDownValue + " from dropdown " + key);
@@ -194,8 +241,6 @@ public class CommonKeywords extends BaseTest {
 
 	/**
 	 * Captures screenshot
-	 * 
-	 * @param element An Element for which needs to wait on Webpage.
 	 * 
 	 */
 

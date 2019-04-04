@@ -18,8 +18,12 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
+import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterSuite;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.BeforeTest;
 
 import FbSignUp.CommonKeywords;
 import FbSignUp.FacebookSignUpTest;
@@ -34,7 +38,7 @@ public class BaseTest {
 	public static Logger log = Logger.getLogger(FacebookSignUpTest.class);
 	public static CommonKeywords cmnkeywords = new CommonKeywords();
 
-	@BeforeSuite
+	@BeforeTest
 
 	/**
 	 * Configures and loads all property files. Calls openBrowserAndEnterUrl method.
@@ -80,7 +84,7 @@ public class BaseTest {
 
 	}
 
-	@AfterSuite
+	@AfterTest
 	public void tearDown() {
 		try {
 			driver.quit();
