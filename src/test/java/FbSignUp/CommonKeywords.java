@@ -29,7 +29,7 @@ public class CommonKeywords extends BaseTest {
 	public static String filename;
 
 	/**
-	 * Opens browser and enters test URL.
+	 * Open browser and enter test URL.
 	 * 
 	 * @param browserName This is browser name in which automation should run.It
 	 *                    Should be updated accordingly in config.properties file.
@@ -69,13 +69,13 @@ public class CommonKeywords extends BaseTest {
 	public static Object[][] generateRandomTestdata() {
 
 		int lengthTestdata = 5;
-		int noOfTestdata = 1;
-		int noOfFields = 8;
+		String noOfTestdata = config.getProperty("testData");
+		int noOfFields=driver.findElements(By.xpath(fb.getProperty("noOfElementsSignUp_XPATH"))).size();
 		boolean useLetters = true;
 		boolean useNumbers = false;
 
-		Object[][] testdata = new Object[noOfTestdata][noOfFields];
-		for (int i = 0; i < noOfTestdata; i++) {
+		Object[][] testdata = new Object[Integer.parseInt(noOfTestdata)][noOfFields-1];
+		for (int i = 0; i < Integer.parseInt(noOfTestdata); i++) {
 			String generatedString = RandomStringUtils.random(lengthTestdata, useLetters, useNumbers);
 			Faker faker = new Faker();
 			String firstName = faker.name().firstName();
@@ -84,7 +84,7 @@ public class CommonKeywords extends BaseTest {
 			int randomMonth = (int) (Math.random() * 11 + 1);
 			int randomYear = ThreadLocalRandom.current().nextInt(1905, 2020);
 			String reverse = "";
-			for (int j = 0; j < noOfFields; j++) {
+			for (int j = 0; j < noOfFields-1; j++) {
 				if (j == 0)
 					generatedString = firstName;
 				if (j == 1)
